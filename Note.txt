@@ -8,5 +8,15 @@ Create Notebook (.ipynb)
 - Select kernel same name as project name 
 
 Git 
-- crete .gitignore
-- 
+- 1st time
+        create repo 
+        Copy command similar to this 
+            git remote add origin https://github.com/beepdevil/test.git
+            git branch -M main
+            git push -u origin main
+        run it in terminal 
+        crete .gitignore
+- commit
+- push
+
+
