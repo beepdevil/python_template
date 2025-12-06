@@ -20,6 +20,14 @@ Git
 - push
 
 - Create brach by left bottom change from main to brach and set branch name 
-- 
+- commit to brach 
+- push to branch
+- in Github
+    - create pull request   
+    - merge pull request 
+- in VS code 
+    - In Git Graph 
+        - Top Right: Fetch from Remote 
+    - switch branch to main then pull change 
 
 
