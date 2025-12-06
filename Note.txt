@@ -1,23 +1,26 @@
-git init
-uv init
-uv sync
-uv add ipykernel
-uv add  library  brabra ex pandas 
+Create Folder 
+
+In terminal 
+    git init
+    uv init
+    uv sync
+    uv add ipykernel
+    uv add  library  brabra ex pandas 
 
 Create Notebook (.ipynb)
 - Select kernel same name as project name 
 
 Git 
 - 1st time
-        create repo 
-        Copy command similar to this 
-            git remote add origin https://github.com/beepdevil/test.git
-            git branch -M main
-            git push -u origin main
-        run it in terminal 
-        crete .gitignore
-- commit  
-- push
+        In Github
+            create repo 
+            Copy command similar to this 
+                git remote add origin https://github.com/beepdevil/test.git
+                git branch -M main
+                git push -u origin main
+        In termical 
+            run it in terminal 
+            crete .gitignore
 
 - Create brach by left bottom change from main to brach and set branch name 
 - commit to brach 
