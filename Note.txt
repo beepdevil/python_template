@@ -16,7 +16,10 @@ Git
             git push -u origin main
         run it in terminal 
         crete .gitignore
-- commit
+- commit  
 - push
+
+- Create brach by left bottom change from main to brach and set branch name 
+- 
 
 
