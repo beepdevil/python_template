@@ -1,0 +1,12 @@
+git init
+uv init
+uv sync
+uv add ipykernel
+uv add  library  brabra ex pandas 
+
+Create Notebook (.ipynb)
+- Select kernel same name as project name 
+
+Git 
+- crete .gitignore
+- 
